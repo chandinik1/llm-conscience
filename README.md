@@ -2,6 +2,8 @@
 
 A rule-based, fully auditable dashboard for detecting wasteful LLM API usage. No LLM judges the calls — pure heuristics, deterministic scoring, zero black box. Built for regulated environments where cost decisions need to be explainable.
 
+![LLM Waste Detector live feed](demo.gif)
+
 ---
 
 ## What It Does
